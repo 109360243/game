@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{D2F8445A-71D9-4D1E-A964-EC2382381C06}</ProjectGuid>
-    <RootNamespace>My109360241</RootNamespace>
+    <ProjectGuid>{74C48209-5F6F-44A3-9DB4-A18791BD84D4}</ProjectGuid>
+    <RootNamespace>My109360244</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="source\mian.cpp" />
+    <ClCompile Include="..\..\source\mian.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
